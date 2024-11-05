@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwibuupe.github.io/fgB/sitemap_index.txt
+Sitemap: https://iwibuupe.github.io/paT/sitemap_index.txt
+Sitemap: https://iwibuupe.github.io/rlI/sitemap_index.txt
+Sitemap: https://iwibuupe.github.io/xmP/sitemap_index.txt
